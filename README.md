@@ -1,5 +1,5 @@
 
-![banner](https://github.com/user-attachments/assets/background1.jpg)
+![banner](/assets/background1.jpg)
 
 
 ## Hi There! 👨‍💻
