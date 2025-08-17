@@ -2,7 +2,7 @@
 ![banner](/assets/background1.jpg)
 
 
-## Hi There! 👨‍💻
+## Howdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Dev, a Computer Science undergrad student with a background in Cyber Security and Deep Learning 
 - Currently, I work at OdEX Technologies in the AI/ML space
 - Profound interest in building projects and products that 'stick'
@@ -62,3 +62,4 @@ I'm Dev, a Computer Science undergrad student with a background in Cyber Securit
 [![Linkedin](/assets/linkedin.png)](https://www.linkedin.com/in/dev-d-483029146) &nbsp;
 [![Discord](/assets/discord.png)](https://www.discord.gg/devil045803) &nbsp;
 [![Website](/assets/website.png)](https://dev4member.wixsite.com/personal) &nbsp;
+<!--![visitors](https://profile-counter.glitch.me/404-dev-notfound/count.svg?align=center)-->
