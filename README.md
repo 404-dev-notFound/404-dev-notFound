@@ -63,6 +63,6 @@ I'm Dev, a Computer Science undergrad student with a background in Cyber Securit
 [![Linkedin](/assets/linkedin.png)](https://www.linkedin.com/in/dev-d-483029146) &nbsp;
 [![Discord](/assets/discord.png)](https://www.discord.gg/devil045803) &nbsp;
 [![Website](/assets/website.png)](https://dev4member.wixsite.com/personal) &nbsp;
-<a href="mailto:f20220319@dubai.bits-pilani.ac.in"><img alt="Mail"title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white""/></a>
+<a href="mailto:f20220319@dubai.bits-pilani.ac.in"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 [visitors](https://profile-counter.glitch.me/404-dev-notFound/count.svg?align=center)
