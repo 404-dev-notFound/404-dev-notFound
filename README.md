@@ -52,7 +52,7 @@ I'm Dev, a Computer Science undergrad student with a background in Cyber Securit
 ## Spotify
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=az4veu6ucaczfdceq2axiv6x9&count=5">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=az4veu6ucaczfdceq2axiv6x9" />
 </p>
 
 ## Socials
