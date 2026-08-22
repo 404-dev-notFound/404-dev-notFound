@@ -49,9 +49,6 @@ I'm Dev, a Computer Science undergrad student with a background in Cyber Securit
 
 
 ## Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=az4veu6ucaczfdceq2axiv6x9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=az4veu6ucaczfdceq2axiv6x9&count=5">
