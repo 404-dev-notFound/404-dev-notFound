@@ -4,7 +4,7 @@
 
 ## Howdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Dev, a Computer Science undergrad student with a background in Cyber Security and Deep Learning 
-- Currently, I work at OdEX Technologies in the AI/ML space
+- Currently, I worked at Deriv in the AI space
 - Profound interest in building projects and products that 'stick'
 
 ## 📊 Stats
