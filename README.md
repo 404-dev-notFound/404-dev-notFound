@@ -22,7 +22,7 @@ I'm Dev, a Computer Science undergrad student with a background in Cyber Securit
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Intern**         | **Deriv**                | **AI Engineer**       | **2026-06 — now** |
+| **Intern**         | **Deriv**                | **AI Engineer**       | **2026-06 — 2026-11** |
 | Intern         | ODeX Technologies                | AI/ML       | 2025-08 — 2026-01 |
 | Intern         | Undercore Cybersecurity                | Network Analysis Prototype       | 2024-06 — 2024-08 |
 
