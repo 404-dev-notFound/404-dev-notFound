@@ -34,7 +34,7 @@ I'm Dev, an AI Engineer in Dubai. I build production-ready LLM, document-AI and 
 
 ## 🎓 Education
 
-- B.E. Computer Science, Birla Institute of Technology and Science (BITS) Pilani, Dubai (2022 – 2026), CGPA 9.43/10, merit scholar (top 10%)
+- B.E. Computer Science, Birla Institute of Technology and Science (BITS) Pilani, Dubai (2022 – 2026), CGPA 9.44/10, merit scholar (top 10%)
 - High School, Apeejay School, Noida (2020 – 2022)
 
 ## 🛠 Tech
